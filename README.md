@@ -26,6 +26,7 @@ Spun up an instance of Linux on Azure Cloud Platform and made the following conf
 - Installed Postgres DB.
 
 Ported the Sport-Catalog application and installed in /var/www/catalog.
+
 Modified the application to use Postgres instead of sqlite and to use wsgi to integrate with apache2.
      
      
