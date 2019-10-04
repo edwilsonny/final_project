@@ -24,6 +24,10 @@ grader
 
 ## Prerequisites
 
+* Postgress
+* Apache2
+* Mod_wsgi
+
 * asn1crypto==0.24.0
 * certifi==2019.9.11
 * chardet==3.0.4
@@ -62,7 +66,7 @@ grader
 ## URL for Application
 
 ```
-http://www.137.117.44.193.xip.io
+http://www.137.117.44.193.xip.io/
 ```
 
 
