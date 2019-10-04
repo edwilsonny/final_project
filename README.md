@@ -4,18 +4,19 @@ Contains README file detailing Final Project
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Intro](#intro)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Instructions](#instructions)
+- [IP and Port](#IP and Port)
+- [UserID](#User ID)
+- [Prerequisites](#Prerequisites)
+- [URL for Application](#URL for Application)
+- [Summary](#Summary)
 
-## Intro
+## IP and Port
 
-This application runs a small website for a Sporting Goods store. It has the functionallity to Display, Add, Update and Delete sporting good products that belong to specific categories. 
+The IP and Port to access via SSH - 137.117.44.193:2200
 
-The initial page shows each category along with the three most recently modified items and gives the user the ability to select either the category or the displayed item. If the category is displayed, the items that belong to that category is displayed. If an item is selected, detail about that item is displayed.
+## User ID
 
-The user also has the ability to authenticate through google. Once the user is authenticated using googe, he/she has the ability to add an item to the database. Once an authenticated user adds an item, he/she is authorized to edit or delete that item. The authenticated user only has the authorization to edit/delete items that they have added.
+grader
 
 ## Prerequisites
 
@@ -54,19 +55,15 @@ The user also has the ability to authenticate through google. Once the user is a
 * yarg==0.1.9
 
 
-## Installation
+## URL for Application
 
-To clone software:
-```
-git clone https://github.com/edwilsonny/sport-catalog.git
-```
-To start server:
-```
-cd/sport-catalog
-./project.py
 ```
 
-## Instructions
+http://www.137.117.44.193.xip.io
+
+```
+
+## Summary
 
 Launch a web browser and type: http://localhost:8080
 
