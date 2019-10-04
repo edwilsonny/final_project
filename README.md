@@ -1,8 +1,6 @@
 # final_project
 Contains README file detailing Final Project
 
-# sport-catalog
-
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
