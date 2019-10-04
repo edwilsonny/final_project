@@ -3,16 +3,20 @@ Contains README file detailing Final Project
 
 ## Table of Contents
 
+- [Summary](#Summary)
 - [Table of Contents](#table-of-contents)
-- [IP and Port](#IP-and-Port)
+- [SSH IP and Port](#SSH-IP-and-Port)
 - [UserID](#User-ID)
 - [Prerequisites](#Prerequisites)
 - [URL for Application](#URL-for-Application)
-- [Summary](#Summary)
 
-## IP and Port
+## Summary
 
-The IP and Port to access via SSH - 137.117.44.193:2200
+
+     
+## SSH IP and Port
+
+137.117.44.193:2200
 
 ## User ID
 
@@ -58,22 +62,8 @@ grader
 ## URL for Application
 
 ```
-
 http://www.137.117.44.193.xip.io
-
 ```
-
-## Summary
-
-Launch a web browser and type: http://localhost:8080
-
-For a JSON listing of all item data - type: http://localhost:8080/item/JSON/
-
-For a JSON listing of a given Item  - type: http://localhost:8080/item/JSON/item_id/
-
- Where: *item_id* is the item_id of the product.
-     
-    
 
 
 [(Back to TOC)](#table-of-contents)
