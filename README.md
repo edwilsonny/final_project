@@ -18,10 +18,14 @@ Spun up an instance of Linux on Azure Cloud Platform and made the following conf
 - Modified SSH port to listen on port 2200.
 - Configured Firewall to only allow connections on ports - 80, 2200, 123.
 - Created an account (grader) and created SSH key pair to allow passwordless access.
+- User (grader) was given sudo access.
 - Changed Local Timezone to UTC.
 - Removed ability to logon remotely with root.
 - Removed ability to logon with a password.
-     
+- Installed Apache2 listening on port 80.
+- Installed Postgres DB.
+
+Ported the Sport-Catalog application and installed in /var/www/catalog using wsgi to serve it up.
      
      
 ## SSH IP and Port
