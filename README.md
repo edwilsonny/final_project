@@ -5,9 +5,9 @@ Contains README file detailing Final Project
 
 - [Table of Contents](#table-of-contents)
 - [IP and Port](#IP-and-Port)
-- [UserID](#User ID)
+- [UserID](#User-ID)
 - [Prerequisites](#Prerequisites)
-- [URL for Application](#URL for Application)
+- [URL for Application](#URL-for-Application)
 - [Summary](#Summary)
 
 ## IP and Port
