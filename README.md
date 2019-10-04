@@ -90,7 +90,7 @@ http://www.137.117.44.193.xip.io/
 
 * [Flask mod wsgi](https://flask.palletsprojects.com/en/0.12.x/deploying/mod_wsgi/)
 * [Azure Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal/)
-* [Pstgres Doc](https://www.postgresql.org/docs/10/index.html)
+* [Postgres Doc](https://www.postgresql.org/docs/10/index.html)
 
 
 [(Back to TOC)](#table-of-contents)
